@@ -1,0 +1,8 @@
+cmake==0.9.0
+dlib==19.9.0
+imutils==0.4.5
+numpy==1.13.3
+opencv-python==3.4.0.12
+scipy
+notify_run
+face_utils
