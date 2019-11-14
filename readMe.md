@@ -35,7 +35,7 @@ In India, there are a lot of accidents taking place every day due to mishaps. As
 
 Clone the Repository
 ``` python
->>>  git clone https://github.com/rowhitswami/Accident-Prevention-using-OpenCV
+>>>  git clone https://github.com/shoaibrayeen/Accident-Prevention
 ```
 Install required libraries
 ``` python
