@@ -31,7 +31,7 @@ In India, there are a lot of accidents taking place every day due to mishaps. As
 -  Dlib - Dlib is a general purpose cross platform library written in the programming language in c++. It here used in detection of the facial landmark locaions. 
 -  Shape Predictor 68 Face Landmarks [Trained Model]
 
-## To Get Started
+## Getting Started with the Project
 
 Clone the Repository
 ``` python
