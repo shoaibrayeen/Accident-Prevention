@@ -63,7 +63,7 @@ Execute app file
 ## License
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-**Copyright (c) 2020 Mohd Shoaib Rayeen**
+**Copyright (c) 2019-Present Mohd Shoaib Rayeen**
 
 This project is licensed under the MIT License - see the LICENSE file for details
 
